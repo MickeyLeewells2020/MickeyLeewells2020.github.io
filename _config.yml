@@ -54,8 +54,7 @@ footer-link-col: "#404040"
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
 page-img: "/img/FascinatingTechnologyStatistics.jpg"
- #
-#
+ page-img: 
 
 # --- Footer options --- #
 
