@@ -2,7 +2,7 @@
 layout: post
 title: How the sales of Magic The Gathering is Affected by a New Set Release
 
-subtitle: Data expploration about my local gamestores sales  and drawing conclusions on correaltion about a new set release  MTG(Magic The Gathering)
+subtitle: Data exploration about my local gamestores sales  and drawing conclusions on correaltion about a new set release  MTG(Magic The Gathering)
 gh-repo: MickeyLeewells2020/MickeyLeewells2020.github.io
 gh-badge: [star, fork, follow]
 tags: [Magic The Gathering,Data Science,Data Visualization]
